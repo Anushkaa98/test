@@ -1,4 +1,4 @@
-EDA — ## EDA Section Summary
+## EDA Section Summary
 
 This section of the repository contains scripts for Exploratory Data Analysis (EDA) conducted on the dataset. The primary steps and visualizations in this EDA are outlined as follows:
 
